@@ -19,7 +19,7 @@ p {
   text-align: center;
 }
 
-div.container {
+div.main {
   padding-top: 2rem;
   border-radius: 5px;
   background: #eee;
@@ -27,7 +27,7 @@ div.container {
   padding-bottom: 2rem;
 }
 
-div.container_2 {
+div.img-dev {
   display: block;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
   width: 98%;
@@ -37,7 +37,7 @@ div.container_2 {
   padding-bottom: 1rem;
 }
 
-img {
+#image {
   display: block;
   margin-left: auto;
   margin-right: auto;
