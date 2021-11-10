@@ -23,6 +23,8 @@ div.container {
   padding-top: 2rem;
   border-radius: 5px;
   background: #eee;
+  font-size: 1.6rem;
+  padding-bottom: 2rem;
 }
 
 div.container_2 {
@@ -49,10 +51,19 @@ h3 {
 
 div.container_3 {
   padding-top: 4rem;
-  padding-left: 30%;
-  padding-right: 30%;
+  padding-left: 25%;
+  padding-right: 25%;
+  margin-bottom: 5rem;
 }
 
 li {
   padding: 1rem 0px;
+  line-height: 2.3rem;
+}
+
+#para1{
+  text-align: left;
+}
+a {
+  color: #477ca7;
 }
